@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "API Response Saver"
+    },
+    "extensionDescription": {
+        "message": "特定のURLで始まるAPIレスポンスを、ドメインごとにフォルダ分けしてタイムスタンプ付きで保存します。"
+    },
+    "settingsTitle": {
+        "message": "API Response Saver 設定"
+    },
+    "enableExtension": {
+        "message": "機能を有効にする"
+    },
+    "targetDomainsLabel": {
+        "message": "対象ドメイン (カンマ区切り)"
+    },
+    "targetDomainsHelp": {
+        "message": "キャプチャを有効にするドメイン (例: example.com, localhost)。"
+    },
+    "targetUrlPrefixesLabel": {
+        "message": "対象URLプレフィックス (改行区切り)"
+    },
+    "targetUrlPrefixesHelp": {
+        "message": "指定したURLで始まるAPIリクエストのレスポンスを保存します。"
+    },
+    "saveButton": {
+        "message": "設定を保存"
+    },
+    "savedMessage": {
+        "message": "保存済み！"
+    }
+}

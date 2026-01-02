@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "API Response Saver"
+    },
+    "extensionDescription": {
+        "message": "Saves API responses from specific URLs with timestamps and organizes them by domain."
+    },
+    "settingsTitle": {
+        "message": "API Response Saver Settings"
+    },
+    "enableExtension": {
+        "message": "Enable Extension"
+    },
+    "targetDomainsLabel": {
+        "message": "Target Domains (comma separated)"
+    },
+    "targetDomainsHelp": {
+        "message": "Domains where capture is enabled (e.g., example.com, localhost)."
+    },
+    "targetUrlPrefixesLabel": {
+        "message": "Target URL Prefixes (new line separated)"
+    },
+    "targetUrlPrefixesHelp": {
+        "message": "Responses for API requests starting with these URLs will be saved."
+    },
+    "saveButton": {
+        "message": "Save Settings"
+    },
+    "savedMessage": {
+        "message": "Saved!"
+    }
+}
