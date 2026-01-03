@@ -1,6 +1,6 @@
 # API Response Saver
 
-Capture and save API responses from specific URLs with high-resolution timestamps, organized by domain and path.
+Chrome extention for capture and save API responses from specific URLs with high-resolution timestamps, organized by domain and path.
 
 [日本語版はこちら](#日本語)
 
@@ -71,3 +71,4 @@ To skip the "Save As" dialog for every file:
 
 1. Chrome の設定（`chrome://settings/downloads`）を開きます。
 2. **「ダウンロード前に各ファイルの保存場所を確認する」** を **オフ** にします。
+
